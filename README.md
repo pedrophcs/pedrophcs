@@ -1,10 +1,14 @@
-## 👨‍💻 Pedro Henrique Cordeiro (pedrophcs)  
+<div align="center">
 
-[![Meu site](https://img.shields.io/badge/Artigos-FA5C5C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pedrocordeiroartigos.com)  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-phcs)  
-[![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://phcs.itch.io/)  
+<h2>👨‍💻 Pedro Henrique Cordeiro (pedrophcs)</h2>
 
-![pedrophcs GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrophcs&theme=dark&show_icons=true)
+[![Meu site](https://img.shields.io/badge/Artigos-FA5C5C?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pedrocordeiroartigos.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-phcs)
+[![Itchi.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://phcs.itch.io/)
+
+</div>
+
+
 
 ---
 
